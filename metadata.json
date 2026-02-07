@@ -1,0 +1,8 @@
+
+{
+  "name": "Eternal Valentine",
+  "description": "A beautiful, private digital sanctuary for a loved one, featuring secure access, romantic media galleries, and personalized AI-enhanced messages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
